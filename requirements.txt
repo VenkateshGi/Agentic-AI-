@@ -20,8 +20,7 @@ requests
 sqlalchemy
 uvicorn
 
-# === Notebook Experience ==
-=
+# === Notebook Experience ===
 ipywidgets
 jupyter_server
 nbclassic
